@@ -1,0 +1,21 @@
+whole project consist of these basic functionality-->
+
+Background subtracting 
+color filterring
+edge detection
+feature matching for object recognization
+general object deteection
+
+Basic libraries used-->Numpy Matplotlib and opencv 
+
+For object detection -->
+
+#opencv is library of python it is a image and video processing library
+#OpenCV is used for all sorts of image and video analysis, like facial recognition and detection, license plate reading,
+ photo editing, advanced robotic vision, optical character recognition, and a whole lot more...
+ 
+#Matplotlib is an optional choice for displaying frames from video or images. Numpy is used for all things.This library      basically deals with plots and graphs.
+
+
+#numpy library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level  mathematical functions to operate on these arrays.
+
